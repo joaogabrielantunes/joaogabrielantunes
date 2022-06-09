@@ -2,6 +2,8 @@
 
 #### Aqui algumas informações minhas:
 
+##### Meu email: joaogabrielantunesdefaria@gmail.com
+
 ##### Link do meu LinkedIn: www.linkedin.com/in/joão-gabriel-antunes-de-faria-705420232
 
 #### Vamos nos conectar? 
