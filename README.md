@@ -1,4 +1,4 @@
-### Olá, me chamo João Gabriel Antunes de Faria. Estudando da Ciência da Computação na Universidade Paulista (Unip) 2/4, me envolvido na área a 2 ano. Tendo conhecimento nas linguagens: Java, Python, C, C#, C++, HTML5, CSS. Banco de Dados: SQL, T-SQL e PL/SQL.
+### Olá, me chamo João Gabriel Antunes de Faria. Estudando da Ciência da Computação Universidade. 5º semestre(2024) , atuando na area a 1 ano. Tendo conhecimento forte na linguagen: Java. Conhecimento médio em: Python, HTML5, CSS. Banco de Dados: SQL, T-SQL e PL/SQL.
 
 #### Aqui algumas informações minhas:
 
